@@ -1,0 +1,21 @@
+{
+    "name": "nsrosenqvist/phulp-rename",
+    "description": "The rename addon for phulp",
+    "keywords": ["phulpplugin", "phulp"],
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Niklas Rosenqvist",
+            "email": "niklas.s.rosenqvist@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "NSRosenqvist\\Phulp": "src"
+        }
+    },
+    "require": {
+        "php": ">=5.6"
+    }
+}
