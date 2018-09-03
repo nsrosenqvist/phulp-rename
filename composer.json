@@ -12,7 +12,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "NSRosenqvist\\Phulp": "src"
+            "NSRosenqvist\\Phulp\\": "src"
         }
     },
     "require": {
